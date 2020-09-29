@@ -1,6 +1,6 @@
 # CarND-Path-Planning-Project
 
-This repository contains all the code for the final project for the Localization course in Udacity's Self-Driving Car Nanodegree.
+This repository contains all the code for the final project for the Path Planning course in Udacity's Self-Driving Car Nanodegree.
 
 **To view the video on YouTube, click the following image: **
 
